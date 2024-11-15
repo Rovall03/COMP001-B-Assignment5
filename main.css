@@ -17,7 +17,7 @@ a:focus, a:hover {
 	transition-property: background;
 }
 
-body {    display: grid; grid-template-rows: 2fr,auto,1fr; 
+body {    display: grid; grid-template-rows: 150px auto 50px;
 
 	font-family: 'Noto Serif', serif;
 	font-size: 18px;
